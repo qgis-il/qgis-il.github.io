@@ -4,7 +4,8 @@
 # QGIS Israeli User Group Website
 # אתר קבוצת המשתמשים הישראלית של QGIS
 
-[ימים פתוחים](https://qgis-il.github.io/QOD/)
+[ימים פתוחים](https://qgis-il.github.io/QOD/)  
+[הצטרפות לקבוצת המשתמשים](https://forms.gle/toMKEDqw5Knqehyw8) לקבלת עדכונים
 
 
 
