@@ -1,1 +1,39 @@
 theme: minima
+# Site-wide settings
+# ------------------
+#
+# title: Your awesome title
+#
+# author:
+#   name: GitHub User
+#   email: your-email@domain.com
+#
+# The `>` after `description:` means to ignore line-breaks until next key. If
+#   you wish to omit the line-break after the end of text, use `>-` instead.
+# description: >
+#   Write an awesome description for your new site here. You can edit this line
+#   in _config.yml. It will appear in your document head meta (for Google search
+#   results) and in your feed.xml site description.
+title: קבוצת המשתמשים הישראלית של QGIS
+#   Social Media Links.
+#     Renders icons via Font Awesome Free webfonts CDN, based on ordered list of
+#     entries. Valid entry keys:
+#       * title    Tooltip rendered on hovering over icon.
+#       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
+#       * url      Full URL of social profile.
+social_links:
+  - title: GitHub
+    icon: github
+    url: "https://github.com/qgis-il"
+  - title: QGIS הקהילה הישראלית בfacebook
+    icon: facebook
+    url: "https://www.facebook.com/groups/qgisinisrael"
+  - title: QGIS בעברית בwhatsapp
+    icon: whatsapp
+    url: "https://chat.whatsapp.com/LcMSbVONvAU0sddIpHCPo4"
+  - title: QGIS בעברית בtelegram
+    icon: telegram
+    url: "https://t.me/+YGfmzKHNnlgyMjVk"
+  - title: QGIS-IL בYouTube
+    icon: youtube
+    url: "https://www.youtube.com/@QGIS-IL"
