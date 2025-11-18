@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="rtl.css">
+<img src="qgis-isr-simple.png" alt="qgis-il logo" width="42"/>
 
 # QGIS Israeli User Group Website
 # אתר קבוצת המשתמשים הישראלית של QGIS
