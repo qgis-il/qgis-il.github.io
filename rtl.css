@@ -1,4 +1,30 @@
 body {
   direction: rtl;
   unicode-bidi: embed;
+
 }
+html[dir="rtl"] .site-title {
+    float: inline-end;
+}
+html[dir="rtl"] .site-nav {
+    float: inline-start;
+}
+ul, ol {
+  margin-inline-start: 30px;
+}
+blockquote {
+    border-inline-start: 4px solid #e8e8e8;
+    padding-inline-start: 15px;
+}
+.wrapper {
+    margin-inline: auto;
+    padding-inline: 30px;
+}
+.site-title { float: inline-start; }
+.site-nav   { float: inline-end; }
+.site-nav {
+    text-align: end;
+}
+table { text-align: start; }
+.svg-icon { padding-inline-end: 5px; }
+.footer-col { float: inline-start; }
