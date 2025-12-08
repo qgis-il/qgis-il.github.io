@@ -1,7 +1,6 @@
 ---
 layout: page
 title: בית
-permalink: /
 ---
 
 <link rel="stylesheet" href="rtl.css">

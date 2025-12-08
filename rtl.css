@@ -28,3 +28,7 @@ blockquote {
 table { text-align: start; }
 .svg-icon { padding-inline-end: 5px; }
 .footer-col { float: inline-start; }
+
+.site-nav .page-link:not(:first-child) {
+  margin-right: 20px;
+}
