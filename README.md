@@ -1,8 +1,3 @@
----
-layout: page
-title: בית
----
-
 <link rel="stylesheet" href="rtl.css">
 <img src="qgis-isr-simple.png" alt="qgis-il logo" width="42"/>
 
