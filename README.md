@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+
 <link rel="stylesheet" href="{{ '/assets/css/rtl.css' | relative_url }}">
 <img src="qgis-isr-simple.png" alt="qgis-il logo" width="42"/>
 
