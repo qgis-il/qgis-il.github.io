@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="rtl.css">
+<!--link rel="stylesheet" href="https://qgis-il.github.io/rtl.css"-->
 <img src="qgis-isr-simple.png" alt="qgis-il logo" width="42"/>
 
 # QGIS Israeli User Group Website
